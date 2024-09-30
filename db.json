@@ -1,0 +1,16 @@
+{
+  "allStudents": [
+    {
+      "id": "0805",
+      "name": "Bhuvana",
+      "stream": "Science",
+      "dob": "2004-06-24"
+    },
+    {
+      "id": "763b",
+      "name": "Sadhika",
+      "stream": "Commerce",
+      "dob": "2008-11-21"
+    }
+  ]
+}
